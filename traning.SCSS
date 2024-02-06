@@ -1,5 +1,3 @@
-@use '../読み込み用ファイル/Sassデフォルト/Sass-default.SCSS.css' as var;
-
-.topchild{
-  @include var(box-size($container-width,auto,$colors, 1));
-  }
+h1{
+  background-color: black;
+}
